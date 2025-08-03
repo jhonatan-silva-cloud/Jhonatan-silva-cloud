@@ -18,9 +18,6 @@ Cloud Engineer | AWS Certified | FinOps & Observability Enthusiast | DevOps Cult
   <a href="https://www.linkedin.com/in/jhonatan-silva-cloud/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://dev.to/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
 </div>
 
 ---
