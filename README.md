@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Olá, sou o Jhonatan Silva</h1>
 
-<!--
-**jhonatan-silva-cloud/Jhonatan-silva-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cloud Engineer | AWS Certified | FinOps & Observability Enthusiast | DevOps Culture Advocate
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,python,kubernetes" height="50" />
+</div>
+
+---
+
+### 📫 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jhonatan-silva-cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+- Labs práticos com Datadog Logs, Metrics, APM e Pipelines  
+- Scripts Python para análise e exportação de custos AWS  
+- App com logs e APM via Docker + Datadog  
+
+---
+
+<p align="center">
+  <i>"A melhor arquitetura é aquela que você pode escalar, entender e manter."</i>
+</p>
