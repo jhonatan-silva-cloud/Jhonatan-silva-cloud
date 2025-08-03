@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Jhonatan Silva</h1>
 
 <h3 align="center">
-Cloud Engineer | AWS Certified | FinOps & Observability Enthusiast | DevOps Culture Advocate
+Cloud Engineer | SRE | DevOps | FinOps | AWS Solutions Architect
 </h3>
 
 ---
