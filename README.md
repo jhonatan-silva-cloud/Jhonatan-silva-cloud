@@ -7,7 +7,7 @@ Cloud Engineer | SRE | DevOps | FinOps | AWS Solutions Architect
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,python,kubernetes" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,python,docker,kubernetes" height="50" />
 </div>
 
 ---
